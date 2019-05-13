@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+*{
+	text-align: center;
+	font-weight: bold;
+}
+
+body {
+
+	background-color:#FF5733;
+	font-family: Times New Roman  ;
+
+}
+h1{
+	font-size: 100px; 
+	font-weight: bold;
+}
+
+#message {
+	font-color: #006400;
+	font-size:30px;
+	font-weight:bold;
+}
+
+#message1 {
+	font-color: #001400;
+	font-size:30px;
+	font-weight:bold;
+}
+
+p{
+	font-size: 40px;
+}
+
+.col-sm-9  {
+	text-align: center;
+	font-size:25px;
+	font-weight:normal;
+	text-align:center;
+	color: #00FFFF ;
+}
+
+
+
+
